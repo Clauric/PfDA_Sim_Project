@@ -1,4 +1,4 @@
-# PfDA_Sim_Project
+# Simulation Project
 Simulation Project for Programming for Data Analytics
 
 ## Table of Contents
